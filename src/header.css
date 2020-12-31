@@ -1,0 +1,22 @@
+header#main-header {
+  position: absolute;
+  width: 100%;
+  height: 60px;
+  font-size: 20px;
+  display: flex;
+}
+
+body {
+  background: #9b6af7;
+}
+
+#art {
+  margin-left: 300px;
+}
+#science {
+  margin-right: 100px;
+  margin-left: 50px;
+}
+#history {
+  margin-left: 400px;
+}
