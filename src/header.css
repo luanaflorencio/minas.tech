@@ -7,16 +7,19 @@ header#main-header {
 }
 
 body {
-  background: #9b6af7;
+  background: #a67af7;
 }
 
 #art {
-  margin-left: 300px;
+  margin-left: 200px;
+  width: 15%;
 }
 #science {
   margin-right: 100px;
   margin-left: 50px;
+  width: 15%;
 }
 #history {
-  margin-left: 400px;
+  margin-left: 300px;
+  width: 15%;
 }
